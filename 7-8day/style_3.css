@@ -1,0 +1,72 @@
+
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+
+    font-family: "Microsoft YaHei", sans-serif;
+}
+
+label {
+    font-weight: 700;
+    font-size: .9em;
+}
+
+span {
+    margin-right: 25px;
+    margin-left: 5px;
+    font-size: .9em;
+}
+
+dt {
+    float: left;
+    font-weight: 700;
+    font-size: .9em;
+
+}
+
+dd {
+    margin: 0;
+    font-size: .9em;
+}
+
+
+
+aside {
+    padding: 10px 0 10px 25px;
+    border: 1px #bbb solid;
+
+    text-align: left;
+    font-size: .9em;
+
+    background-color: #848484;
+    color: #fff;
+}
+
+h2 {
+    float: left;
+    box-sizing: border-box;
+
+    width: 12%;
+    height: 120px;
+    margin: 0;
+    border-left: 1px #ccc solid;
+    border-bottom: 1px #ccc solid;
+
+    font-size: 1em;
+    text-align: center;
+    line-height: 120px;
+    
+    background-color: #D6D6D6;
+}
+
+dl {
+    float: right;
+    box-sizing: border-box;
+
+    width: 88%;
+    height: 120px;
+    margin: 0;
+    padding: 12px;
+    border-right: 1px #ccc solid;
+    border-bottom: 1px #ccc solid;
+}

@@ -1,0 +1,45 @@
+
+body {
+    max-width: 800px;
+    max-height: 1000px;
+    margin: 0 auto;
+
+    font-family: "Microsoft YaHei", sans-serif;
+}
+
+label {
+    font-weight: 700;
+}
+
+span {
+    margin-right: 25px;
+}
+
+dt {
+    margin-top: 12px;
+    font-weight: 700;
+}
+
+dd {
+    margin-left: 0;
+}
+
+main {
+    float: right;
+
+    width: 76%;
+    padding-left: 20px;
+}
+
+aside {
+    float: left;
+
+    width: 20%;
+    height: 700px;
+    padding-top: 30px;
+
+    text-align: center;
+    
+    background-color: #65A4FA;
+    color: #fff;
+}

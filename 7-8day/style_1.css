@@ -1,0 +1,21 @@
+
+body {
+    font-family: "Microsoft YaHei", sans-serif;
+}
+
+label {
+    font-weight: 700;
+}
+
+span {
+    margin-right: 25px;
+}
+
+dt {
+    margin-top: 12px;
+    font-weight: 700;
+}
+
+dd {
+    margin-left: 0;
+}
